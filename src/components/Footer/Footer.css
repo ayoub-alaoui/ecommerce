@@ -1,0 +1,59 @@
+footer{
+    display: block;
+    
+    
+}
+footer .container{
+    position: relative;
+    margin: 0 auto;
+    padding: 6.25rem 0;
+}
+.input-group {
+   }
+footer p{
+    color: gray;
+}
+footer p a{
+    text-decoration: none;
+    color: honeydew;
+}
+.list-group-item a{
+    text-decoration: none;
+    color: honeydew;
+
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.9375rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: transparent;
+    border: none;
+
+}
+h4{
+    color: gray;
+}
+.nav-link i{
+    color: gray;
+    font-size: xx-large;
+
+}
+.list-group-columns {
+    flex-wrap: wrap;
+    flex-direction: initial; }
+    .list-group-columns .list-group-item {
+      width: 50%;
+      margin-bottom: 0.625rem;
+      padding: 0;
+      background: transparent;
+      border: 0; }
+      .list-group-columns .list-group-item a {
+        font-size: 0.875rem; }
+#button-addon2{
+    color: honeydew;
+}
+.form-control{
+    background:transparent;
+    border-radius: 0;
+}

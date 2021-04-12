@@ -1,0 +1,62 @@
+
+img {
+    height: 180px;
+    width: 200px;
+    display: block;
+    padding: 5px 0px;
+}
+.cont-imgs{
+float: left;
+margin-top: 50px;
+margin-right: 150px;
+
+}
+.div1 {
+   
+    padding-right: 50px;
+}
+.carou .carousel  {
+margin-right: 400px;
+margin-top: 50px;
+width: 500px;
+
+
+    
+    
+}
+.carou img {
+height: 700px;
+width: 200px;
+}
+.filter {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20 25px;
+ 
+}
+.color {
+    padding-top: 15px;
+}
+.color .btn {
+    padding: 20px 25px;
+}
+.display {
+    display: block;
+    padding: 25px;
+    font-size: large;
+}
+.add_to_cart .add {
+    background-color: #4d4646;
+    color: white;
+    padding: 10px 100px;
+}
+#accordionFlushExample {
+    padding-top: 30px;
+    
+}
+.socials .fab{
+color: gray;
+height: 25px;
+width: 25px;
+
+}
